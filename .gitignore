@@ -12,3 +12,4 @@ wheels/
 # 本地模型与密钥，不入库
 models/
 .env
+chroma_db/
